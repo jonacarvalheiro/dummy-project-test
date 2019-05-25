@@ -1,0 +1,13 @@
+{
+  "baseUrl": " https://api.codacy.com/2.0",
+  "username": "codacychallenge@gmail.com",
+  "pwd": "Codacy2019",
+  "apiToken": "yQi349TI4MCJ9MVixGUb",
+  "services": {
+    "commit": {
+      "uuid": "4d573190aba22b1097ee7405535ec74f63d86b0b",
+      "username": "codacychallenge",
+      "projectName": "DietPi"
+    }
+  }
+}
