@@ -1,1 +1,1 @@
-# codacyTests
+# dummy-project-test
